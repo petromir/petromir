@@ -1,0 +1,11 @@
+<svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%"
+          dominant-baseline="middle"
+          text-anchor="middle"
+          fill="#5D91F7"
+          font-family="Fira Code, monospace"
+          font-size="25"
+          font-weight="600">
+        Petromir Dzhunev
+    </text>
+</svg>
