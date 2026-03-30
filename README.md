@@ -6,13 +6,45 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&color=5D91F7&weight=600&size=18&duration=2500&pause=1000&center=true&&width=435&lines=Love%20building%20things%20from%20scratch;Love%20helping%20you%20grow;Technology%20enthusiast">
 </div>
 
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache%20kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![GitHubCopilot](https://img.shields.io/badge/-GitHub%20Copilot-8E75B2?style=flat-square&logo=githubcopilot&logoColor=white)
+![CLI](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+
 ## Projects
 
-### Java
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petromir&repo=java-conversion-apis)](https://github.com/petromir/java-conversion-apis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petromir&repo=java-converters)](https://github.com/petromir/java-converters)
+### Pure Java
+
+### Spring Boot
+
+### Database
+
+### CLI
+
+
+## Connect with me
+
+<p align="left">
+<a href="https://twitter.com/dzhunev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dzhunev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pdzhunev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pdzhunev" height="30" width="40" /></a>
+</p>
 
 ## Stats
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/petromir)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petromir&layout=donut&theme=default)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petromir" alt="petromir" /></p>
+
