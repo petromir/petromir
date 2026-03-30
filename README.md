@@ -16,7 +16,7 @@
 ![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![GitHubCopilot](https://img.shields.io/badge/-GitHub%20Copilot-8E75B2?style=flat-square&logo=githubcopilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![CLI](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -34,16 +34,13 @@
 
 ### CLI
 
-
-## Connect with me
-
+## Let's connect
 <p align="left">
 <a href="https://twitter.com/dzhunev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dzhunev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pdzhunev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pdzhunev" height="30" width="40" /></a>
 </p>
 
-## Stats
-
+## Some stats
 ![GitHub Contribution Graph](https://ghchart.rshah.org/petromir)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petromir&layout=donut&theme=default)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petromir" alt="petromir" /></p>
