@@ -32,9 +32,10 @@
 ### Software Engineering
 * [software-engineering-craftsmanship](https://github.com/petromir/software-engineering-craftsmanship) - helping you build well-crafted software and companies around it 
 
-### Pure Java
+### Plain Java
 * [java-conversion-apis](https://github.com/petromir/java-conversion-apis) - set of Java APIs for various conversions
 * [java-converters](https://github.com/petromir/java-converters) - reference implementations for Java Conversion APIs
+* [java-library-template](https://github.com/petromir/java-library-template) - A project template for bootstrapping a Java library
 * [java-project-dependencies-management](https://github.com/petromir/java-project-dependencies-management) - templates for managing internal and external dependencies using Maven
 
 ### Spring Boot
