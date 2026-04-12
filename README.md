@@ -62,6 +62,8 @@
 </p>
 
 ## Some stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=petromir&&theme=github-compact" alt="Prince Canuma's github activity graph"/>
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/petromir)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petromir" alt="petromir"/></p>
 
