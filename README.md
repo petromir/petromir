@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="./header.svg" alt="Petromir Dzhunev"/>
+  <img src="./assets/header.svg" alt="Petromir Dzhunev"/>
 </h2>
 
 <div align="center">
@@ -56,10 +56,8 @@
 * [macos-apk-installer](https://github.com/petromir/macos-apk-installer) - automatically uninstall and install apk files on multiple devices 
 
 ## Let's connect
-<p align="left">
-<a href="https://twitter.com/dzhunev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dzhunev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pdzhunev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pdzhunev" height="30" width="40" /></a>
-</p>
+
+[![X](./assets/x-icon.svg)](https://twitter.com/dzhunev) [![LinkedIn](./assets/linkedin-icon.svg)](https://linkedin.com/in/pdzhunev)
 
 ## Some stats
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=petromir&&theme=github-compact" alt="Prince Canuma's github activity graph"/>
