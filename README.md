@@ -59,6 +59,12 @@
 
 [![X](./assets/x-icon.svg)](https://twitter.com/dzhunev) [![LinkedIn](./assets/linkedin-icon.svg)](https://linkedin.com/in/pdzhunev)
 
+## Support my work
+
+<a href="https://ko-fi.com/petromirdzhunev" target="_blank"><img src="./assets/kofi-button.svg" alt="Buy Me A Ko-fi" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/petromirdzhunev" target="_blank"><img src="./assets/bmc-button.svg" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://github.com/sponsors/petromir" target="_blank"><img src="./assets/github-sponsor-button.svg" alt="GitHub Sponsor" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Some stats
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=petromir&&theme=github-compact" alt="Prince Canuma's github activity graph"/>
 
