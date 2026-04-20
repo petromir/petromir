@@ -44,12 +44,13 @@
 * [spring-boot-nlayered-service](https://github.com/petromir/spring-boot-nlayered-service) - a production-ready example of Spring Boot project using N-layered architecture.
 * [spring-boot-onion-service](https://github.com/petromir/spring-boot-onion-service) - a production-ready example of Spring Boot project using Onion architecture.
 * [andromeda-testing-framework](https://github.com/petromir/andromeda-testing-framework) - dramatically simplifying testing of Spring Boot apps
-* [andromeda-framework](https://github.com/petromir/andromeda-framework) - A Java framework from another galaxy
+* [andromeda-framework](https://github.com/petromir/andromeda-framework) - a Java framework from another galaxy
 
 ### Database
 * [flyway-db-versioning](https://github.com/petromir/flyway-db-versioning) - database versioning with Flyway and Bash 
 
 ### CLI
+* [end-of-life-cli](https://github.com/petromir/end-of-life-cli) - a CLI wrapper of endoflife.date API 
 * [andoid-data-backup](https://github.com/petromir/android-data-backup) - offline backup utilities for Android devices
 
 ### macOS
