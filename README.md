@@ -27,7 +27,7 @@
 ## Projects
 
 ### AI
-* [ai-setup](https://github.com/petromir/ai-setup) - AI shared assets and configurations
+* [oh-my-ai](https://github.com/petromir/oh-my-ai) - AI assets and configurations
 
 ### Software Engineering
 * [software-engineering-craftsmanship](https://github.com/petromir/software-engineering-craftsmanship) - helping you build well-crafted software and companies around it 
