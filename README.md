@@ -37,7 +37,7 @@
 * [java-converters](https://github.com/petromir/java-converters) - reference implementations for Java Conversion APIs
 * [java-library-template](https://github.com/petromir/java-library-template) - project template for bootstrapping a Java library
 * [java-project-dependencies-management](https://github.com/petromir/java-project-dependencies-management) - templates for managing internal and external dependencies using Maven
-* [string](https://github.com/petromir/strings) - zero dependency String manipulation library
+* [strings](https://github.com/petromir/strings) - zero dependency String manipulation library
 
 ### Spring Boot
 * [spring-boot-starter-template](https://github.com/petromir/spring-boot-starter-template) - project template for bootstrapping Spring Boot starter
