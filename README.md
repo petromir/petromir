@@ -38,6 +38,7 @@
 * [java-library-template](https://github.com/petromir/java-library-template) - project template for bootstrapping a Java library
 * [java-project-dependencies-management](https://github.com/petromir/java-project-dependencies-management) - templates for managing internal and external dependencies using Maven
 * [strings](https://github.com/petromir/strings) - zero dependency String manipulation library
+* [domain-core](https://github.com/petromir/domain-core) - core domain abstractions and shared building blocks
 
 ### Spring Boot
 * [spring-boot-starter-template](https://github.com/petromir/spring-boot-starter-template) - project template for bootstrapping Spring Boot starter
