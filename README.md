@@ -28,6 +28,7 @@
 
 ### AI
 * [oh-my-ai](https://github.com/petromir/oh-my-ai) - AI assets and configurations
+* [javanizer](https://github.com/petromir/javanizer) - Specialized Java AI agent
 
 ### Software Engineering
 * [software-engineering-craftsmanship](https://github.com/petromir/software-engineering-craftsmanship) - helping you build well-crafted software and companies around it 
