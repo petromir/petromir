@@ -30,6 +30,7 @@
 * [oh-my-ai](https://github.com/petromir/oh-my-ai) - AI assets and configurations
 * [javanizer](https://github.com/petromir/javanizer) - Specialized Java AI agent
 * [ai-agent-box](https://github.com/petromir/ai-agent-box) - An isolated runtime for AI harness with superpowers
+* [orchestra](https://github.com/petromir/orchestra) - AI agents orchestration engine
 
 ### Software Engineering
 * [software-engineering-craftsmanship](https://github.com/petromir/software-engineering-craftsmanship) - helping you build well-crafted software and companies around it 
