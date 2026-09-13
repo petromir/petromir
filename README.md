@@ -17,6 +17,8 @@
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Linux](https://img.shields.io/badge/-opencode-000000?style=flat-square&logo=opencode&logoColor=white)
+![Linux](https://img.shields.io/badge/-pi-000000?style=flat-square&logo=pi&logoColor=white)
 ![CLI](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
